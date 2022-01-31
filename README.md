@@ -6,8 +6,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulvio-pimentel-bb3aa868)
 [![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FulvioFPimentel)
 
-![Fulvio GitHub stats](https://github-readme-stats.vercel.app/api?username=FulvioFPimentel&show_icons=true&theme=dracula)
-
+ <a href="https://github.com/FulvioFPimentel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FulvioFPimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FulvioFPimentel&layout=compact&langs_count=7&theme=dracula"/><br/>
+  <a/>
+  
 ### Tecnologias que utilizo em trabalhos e em estudos
 
 <div style="display: inline_block"><br/>
@@ -21,5 +24,7 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  </div><br/>
 
-Sou apaixonado por programação!...  tenho prazer em encontrar problemas para que eu possa resolve-las através do código,<br/> Amo aprender, pois... o desenvolvimento de um bom desenvolvedor nunca acaba!
+<br/>
+  
+ > Sou apaixonado por programação!...  tenho prazer em encontrar problemas para que eu possa resolve-las através do código,<br/> Amo aprender, pois... o desenvolvimento de um bom desenvolvedor nunca acaba!
 
