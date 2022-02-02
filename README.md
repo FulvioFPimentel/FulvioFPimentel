@@ -26,5 +26,5 @@
 
 <br/>
   
- > Sou apaixonado por programação!...  tenho prazer em encontrar problemas para que eu possa resolve-las através do código,<br/> Amo aprender, pois... o desenvolvimento de um bom desenvolvedor nunca acaba!
+ > Sou apaixonado por tecnologia!...  tenho prazer em encontrar problemas para que eu possa resolve-las através do código,<br/> Amo aprender, pois... o desenvolvimento de um bom desenvolvedor nunca acaba!
 
