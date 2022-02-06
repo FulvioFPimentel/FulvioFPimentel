@@ -1,5 +1,11 @@
-## Olá familia Devs! Eu sou Fulvio Pimentel ✌️😎
-<br/>
+<h2 align="center">Olá Familia Devs! Eu sou Fulvio Pimentel
+<img height="30" src="https://c.tenor.com/2Wu29iaHSYYAAAAi/coffee-lover-hot-coffee.gif">
+</h2>
+
+  
+ > Sou apaixonado por tecnologia!...  tenho prazer em encontrar problemas para que eu possa resolve-las através do código,<br/> Amo aprender, pois... o desenvolvimento de um bom desenvolvedor nunca acaba!
+
+<br/><br/>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fulvio.francapimentel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fulviofp)
@@ -25,6 +31,4 @@
  </div><br/>
 
 <br/>
-  
- > Sou apaixonado por tecnologia!...  tenho prazer em encontrar problemas para que eu possa resolve-las através do código,<br/> Amo aprender, pois... o desenvolvimento de um bom desenvolvedor nunca acaba!
 
