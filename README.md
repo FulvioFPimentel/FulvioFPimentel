@@ -5,7 +5,7 @@
   
  > Sou apaixonado por tecnologia!...  tenho prazer em encontrar problemas para que eu possa resolve-las através do código,<br/> Amo aprender, pois... o desenvolvimento de um bom desenvolvedor nunca acaba!
 
-> Focado no momento em estudos com Design Patterns e microserviços com Java ..
+> Focado no momento com estudos em Design Patterns e microserviços com Java ..
 
 <br/><br/>
 
