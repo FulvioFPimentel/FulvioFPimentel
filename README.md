@@ -18,7 +18,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FulvioFPimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FulvioFPimentel&layout=compact&langs_count=7&theme=dracula"/><br/>
   <a/>
+
+<div align="center">
+  <a href="https://github.com/Ravenpac">
+
   
+</div>
+  <div style="display: inline_block"><br>
+
+  <img align="right" alt="Raven-pic" height="100" style="border-radius:50px;" src="https://www.seekpng.com/png/full/223-2231845_logo-java-java-icon.png">
+</div>
+
+  ##
+  
+  <br/>
 ### Tecnologias que utilizo em trabalhos e em estudos
 
 <div style="display: inline_block"><br/>
