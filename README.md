@@ -31,7 +31,8 @@
 
   ##
   
-  <br/>
+  <br/> <br/>
+  
 ### Tecnologias que utilizo em trabalhos e em estudos
 
 <div style="display: inline_block"><br/>
