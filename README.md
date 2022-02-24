@@ -19,14 +19,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FulvioFPimentel&layout=compact&langs_count=7&theme=dracula"/><br/>
   <a/>
 
-</div>
   <div style="display: inline_block"><br>
-  <img align="right" alt="Raven-pic" height="100" style="border-radius:50px;" src="https://www.seekpng.com/png/full/223-2231845_logo-java-java-icon.png">
+  <img align="right" alt="Raven-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70281214/155527029-1582b03b-7fdb-4044-b966-c677c12fab5f.png">
 </div>
 
   ##
   
-  <br/> <br/>
+  <br/>
   
 ### Tecnologias que utilizo em trabalhos e em estudos
 
